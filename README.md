@@ -1,4 +1,4 @@
-### Olá! Eu sou o Arthur Oliveira 🤙
+### Olá! Eu sou o Arthur Oliveira  🤙
 
 - 🧑‍💻 Quality Assurance.
 - ✅  Experiences automation: Cucumber, Selenium WebDriver, Cypress and Postman.
